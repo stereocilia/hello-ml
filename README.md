@@ -9,4 +9,4 @@ a place for my [LiteRT](https://ai.google.dev/edge/litert)  experiments, primari
   - Run the script as: `python3 main.py --image "images/my-image.jpg"`, replacing the image file path with your image's
 actual file path. Example: `python3 main.py --image 'images/3426785596_cd8b093e31_z.jpg`
   - Run `python3 main.py` for all options
-  - Results are output to the 'output' folder as a uniquely named file. If the output file shows bounding boxes, a detection was made. If not, no detection was made. 
+  - Results are output to the `output` folder as a uniquely named file. If the output file shows bounding boxes, if a detection was made. If no bounding box is shown, no detections were made. 
